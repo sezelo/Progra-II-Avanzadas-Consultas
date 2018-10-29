@@ -1,0 +1,44 @@
+﻿@model Mongo3.Models.FuncionarioModel
+
+@{
+    ViewBag.Title = "Consultas";
+}
+
+<h2>Consultas</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>FuncionarioModel</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        @Html.DropDownListFor(model => model.TipoFuncionario, new SelectList(
+               new List<Object>{
+                       new { value = 0 , text = "Citas por Paciente"  },
+                       new { value = 1 , text = "Citas por Fecha" },
+                       new { value = 2 , text = "Citas por Especialidad"},
+                       new { value = 3 , text = "Citas por Estado" },
+                       new { value = 4 , text = "Pacientes con más citas"}
+                 },
+               "value",
+               "text",
+               0))
+
+    </div>
+
+    @Html.Raw(TempData["msg"])
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Consultar" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
