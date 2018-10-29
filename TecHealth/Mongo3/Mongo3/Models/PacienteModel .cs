@@ -27,7 +27,7 @@ namespace Mongo3.Models
         [BsonElement("TipoSangre")]
         public string TipoSangre { get; set; }
         [BsonElement("Nacionalidad")]
-        public string Nacionalidad { get; set; }
+        public string Nacionalidada { get; set; }
         [BsonElement("Residencia")]
         public string Residencia { get; set; }
         [BsonElement("Telefonos")]

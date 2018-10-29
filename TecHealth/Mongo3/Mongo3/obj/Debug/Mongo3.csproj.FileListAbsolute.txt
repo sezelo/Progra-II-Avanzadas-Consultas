@@ -1,311 +1,104 @@
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\ApplicationInsights.config
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Mongo3.dll.config
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Mongo3.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Mongo3.pdb
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\csc.exe
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\csc.exe.config
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\csc.rsp
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\csi.exe
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\csi.exe.config
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\csi.rsp
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.Managed.Core.targets
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.AppContext.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Collections.Immutable.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Console.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Diagnostics.StackTrace.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.IO.Compression.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.IO.FileSystem.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.IO.FileSystem.Primitives.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.IO.Pipes.AccessControl.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.IO.Pipes.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Security.AccessControl.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Security.Claims.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Encoding.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Primitives.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Security.Principal.Windows.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Text.Encoding.CodePages.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.ValueTuple.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Xml.ReaderWriter.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Xml.XmlDocument.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Xml.XPath.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\System.Xml.XPath.XDocument.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\vbc.exe
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\vbc.exe.config
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\vbc.rsp
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\VBCSCompiler.exe
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\roslyn\VBCSCompiler.exe.config
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Antlr3.Runtime.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\DnsClient.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.Agent.Intercept.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.DependencyCollector.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.PerfCounterCollector.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.ServerTelemetryChannel.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.Web.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.WindowsServer.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.ApplicationInsights.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.Web.Infrastructure.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\MongoDB.Bson.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\MongoDB.Driver.Core.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\MongoDB.Driver.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Newtonsoft.Json.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Buffers.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Diagnostics.DiagnosticSource.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Runtime.InteropServices.RuntimeInformation.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.Helpers.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.Mvc.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.Optimization.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.Razor.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.WebPages.Deployment.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.WebPages.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.WebPages.Razor.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\WebGrease.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\DnsClient.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\MongoDB.Bson.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\MongoDB.Driver.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\MongoDB.Driver.Core.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.Helpers.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.Mvc.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.Optimization.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.Razor.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.WebPages.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.WebPages.Deployment.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Web.WebPages.Razor.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Newtonsoft.Json.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Antlr3.Runtime.pdb
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\System.Diagnostics.DiagnosticSource.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.DependencyCollector.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.WindowsServer.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.AI.Web.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\obj\Debug\Mongo3.csprojAssemblyReference.cache
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\obj\Debug\Mongo3.csproj.CoreCompileInputs.cache
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\obj\Debug\Mongo3.csproj.CopyComplete
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\obj\Debug\Mongo3.dll
-c:\users\extreme pc\source\repos\Mongo3\Mongo3\obj\Debug\Mongo3.pdb
-C:\Users\Sara\Documents\Mongo3\Mongo3\obj\Debug\Mongo3.csprojAssemblyReference.cache
-C:\Users\Sara\Documents\Mongo3\Mongo3\obj\Debug\Mongo3.csproj.CoreCompileInputs.cache
-C:\Users\Sara\Documents\Mongo3\Mongo3\obj\Debug\Mongo3.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\obj\Debug\Mongo3.pdb
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\ApplicationInsights.config
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Mongo3.dll.config
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Mongo3.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Mongo3.pdb
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\csc.exe
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\csc.exe.config
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\csc.rsp
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\csi.exe
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\csi.exe.config
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\csi.rsp
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.AppContext.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Console.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.IO.Compression.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.IO.Pipes.AccessControl.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.IO.Pipes.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Security.AccessControl.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Security.Claims.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Security.Principal.Windows.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.ValueTuple.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\vbc.exe
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\vbc.exe.config
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\vbc.rsp
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\VBCSCompiler.exe
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Antlr3.Runtime.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\DnsClient.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\EntityFramework.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\EntityFramework.SqlServer.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.Web.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\MongoDB.Bson.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\MongoDB.Driver.Core.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\MongoDB.Driver.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Newtonsoft.Json.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Buffers.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.Helpers.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.Mvc.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.Optimization.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.Razor.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.WebPages.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.WebPages.Razor.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\WebGrease.dll
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\DnsClient.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\EntityFramework.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\EntityFramework.SqlServer.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\MongoDB.Bson.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\MongoDB.Driver.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\MongoDB.Driver.Core.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.Helpers.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.Mvc.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.Optimization.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.Razor.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.WebPages.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Web.WebPages.Razor.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Newtonsoft.Json.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Antlr3.Runtime.pdb
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\System.Diagnostics.DiagnosticSource.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.AI.Web.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Sara\Documents\Mongo3\Mongo3\obj\Debug\Mongo3.csproj.CopyComplete
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\ApplicationInsights.config
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Mongo3.dll.config
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Mongo3.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Mongo3.pdb
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\csc.exe
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\csc.exe.config
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\csc.rsp
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\csi.exe
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\csi.exe.config
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\csi.rsp
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.AppContext.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Console.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.Compression.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.Pipes.AccessControl.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.Pipes.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.AccessControl.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Claims.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Principal.Windows.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.ValueTuple.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Xml.XPath.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\vbc.exe
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\vbc.exe.config
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\vbc.rsp
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\VBCSCompiler.exe
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Antlr3.Runtime.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\DnsClient.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\EntityFramework.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\EntityFramework.SqlServer.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.Web.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.ApplicationInsights.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\MongoDB.Bson.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\MongoDB.Driver.Core.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\MongoDB.Driver.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Newtonsoft.Json.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Buffers.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Diagnostics.DiagnosticSource.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.Helpers.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.Mvc.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.Optimization.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.Razor.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.Deployment.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.Razor.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\WebGrease.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\DnsClient.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\EntityFramework.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\EntityFramework.SqlServer.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\MongoDB.Bson.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\MongoDB.Driver.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\MongoDB.Driver.Core.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.Helpers.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.Mvc.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.Optimization.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.Razor.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.Deployment.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.Razor.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Newtonsoft.Json.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Antlr3.Runtime.pdb
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\System.Diagnostics.DiagnosticSource.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.Web.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.csprojAssemblyReference.cache
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.csproj.CoreCompileInputs.cache
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.csproj.CopyComplete
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.dll
-C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.pdb
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\ApplicationInsights.config
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Mongo3.dll.config
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Mongo3.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Mongo3.pdb
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Antlr3.Runtime.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\DnsClient.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\EntityFramework.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\EntityFramework.SqlServer.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.Web.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\MongoDB.Bson.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\MongoDB.Driver.Core.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\MongoDB.Driver.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Newtonsoft.Json.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Buffers.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.Helpers.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.Mvc.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.Optimization.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.Razor.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.Razor.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\WebGrease.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\DnsClient.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\EntityFramework.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\EntityFramework.SqlServer.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\MongoDB.Bson.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\MongoDB.Driver.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\MongoDB.Driver.Core.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.Helpers.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.Mvc.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.Optimization.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.Razor.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Web.WebPages.Razor.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Newtonsoft.Json.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Antlr3.Runtime.pdb
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.AI.Web.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.pdb
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\obj\Debug\Mongo3.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\csc.exe
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\csc.exe.config
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\csc.rsp
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\csi.exe
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\csi.exe.config
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\csi.rsp
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.AppContext.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Console.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.Compression.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Claims.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.ValueTuple.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\vbc.exe
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\vbc.exe.config
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\vbc.rsp
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\VBCSCompiler.exe
+C:\Users\sergi\OneDrive\Documentos\TEC\II Sem 18\Avanzadas\Progra-II-BDAvanzadas-master\TECHealth\Mongo3\Mongo3\bin\roslyn\VBCSCompiler.exe.config

@@ -21,11 +21,11 @@ namespace Mongo3.Models
         public string Sintomas { get; set; }
         [BsonElement("Tratamiento")]
         public string[] Tratamiento { get; set; }
-        //[BsonExtraElements]
-        //public BsonDocument CatalogoTratamiento { get; set; }
-        //[BsonElement("Unidades")]
-        //public string Unidades { get; set; }
-        //[BsonElement("Monto")]
-        //public double Monto { get; set; }
+        [BsonExtraElements]
+        public BsonDocument CatalogoTratamiento { get; set; }
+        [BsonElement("Unidades")]
+        public string Unidades { get; set; }
+        [BsonElement("Monto")]
+        public double Monto { get; set; }
     }
 }

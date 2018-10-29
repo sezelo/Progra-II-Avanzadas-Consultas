@@ -8,7 +8,6 @@ using MongoDB.Driver;
 using System.Configuration;
 using Mongo3.App_Start;
 using Mongo3.Models;
-using MongoDB.Driver.Linq;
 
 namespace Mongo3.Controllers
 {
@@ -16,8 +15,7 @@ namespace Mongo3.Controllers
     {
         private MongoDBContext dbcontext;
         private IMongoCollection<PacienteModel> pacienteCollection;
-        private IMongoCollection<CitasModel> CitasCollection;
-        //var collection = database.GetCollection<TDocument>("collectionname");
+
         public PacientesController()
         {
             dbcontext = new MongoDBContext();
@@ -133,62 +131,6 @@ namespace Mongo3.Controllers
                 return View();
             
         }
-
-        public object CitasPorPaciente()
-        {
-            var query =
-                 (from e in pacienteCollection.AsQueryable<PacienteModel>()
-                 //where e.Cedula == "115530534" //Aqui va el valor del textbox
-                 select e)
-                 .Count(e => e.Cedula == "115530534");
-            return query;
-            //Console.WriteLine("Esta es el query: "+query+"/n");
-        }
-
-        public object CitasPorFecha()
-        {
-            DateTime date1 = Convert.ToDateTime("31/12/2018"); //Aqui irian los textbox que contienen fechas
-            DateTime date2 = Convert.ToDateTime("31/12/2019");
-            var query =
-                (from e in CitasCollection.AsQueryable<CitasModel>()
-                 where DateTime.Parse(e.Fecha) >= date1 && DateTime.Parse(e.Fecha) <= date2
-                 select e)
-                 .Count();
-            return query;
-            //Console.WriteLine(query);
-        }
-
-        public void CitasPorEspecialidad()
-        {
-            var query =
-                (from e in CitasCollection.AsQueryable<CitasModel>()
-                 where e.Especialidad == "General" //aqui iria el textbox que contiene la especialidad
-                 select e)
-                 .Count();
-            Console.WriteLine(query);
-        }
-
-        public void CitasPorEstado()
-        {
-            var query =
-                (from e in CitasCollection.AsQueryable<CitasModel>()
-                 where e.Estado == "Cancelado" //aqui iria el textbox que contiene la estado
-                 select e)
-                 .Count();
-            Console.WriteLine(query);
-        }
-
-        public void PacientesConMasCitas()
-        {
-            var query =
-                 from e in pacienteCollection.AsQueryable<PacienteModel>()
-                 orderby (e.Cedula.Count())
-                 //where e. == "115530534" //Aqui va el valor del textbox
-                 select (e.Nombre);
-            Console.WriteLine(query);
-        }
-
-    }
-
+     }
     
 }
