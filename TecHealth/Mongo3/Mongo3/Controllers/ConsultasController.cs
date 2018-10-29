@@ -15,6 +15,8 @@ namespace Mongo3.Controllers
     {
         private IMongoCollection<PacienteModel> PacientesCollection;
         private IMongoCollection<CitasModel> CitasCollection;
+        private IMongoCollection<TratamientoModel> TratamientosCollection;
+        private IMongoCollection<DiagnosticoModel> DiagnosticoCollection;
         private MongoClient server;
         private MongoDBContext dbcontext;
 
@@ -23,6 +25,8 @@ namespace Mongo3.Controllers
             dbcontext = new MongoDBContext();
             CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
             PacientesCollection = dbcontext.database.GetCollection<PacienteModel>("Pacientes");
+            TratamientosCollection = dbcontext.database.GetCollection<TratamientoModel>("Tratamientos");
+            DiagnosticoCollection = dbcontext.database.GetCollection<DiagnosticoModel>("Diagnostico");
         }
 
         // GET: Consultas
@@ -33,6 +37,8 @@ namespace Mongo3.Controllers
             ViewBag.CitasPorEstado = CitasPorEstado("Cancelado");
             ViewBag.CitasPorFecha = CitasPorFecha("2018-05-25","2018-10-29");
             ViewBag.PacientesConMasCitas = PacientesConMasCitas();
+            ViewBag.CantidadTratamiento = CantidadTratamiento("ZZZ");
+            ViewBag.Promedio = PromedioMonto("ZZZ");
             return View();
         }
 
@@ -108,6 +114,7 @@ namespace Mongo3.Controllers
             }
         }
 
+        //Consultas de Citas
         public int CitasPorPaciente(string cedula)
         {
 
@@ -153,15 +160,67 @@ namespace Mongo3.Controllers
             return query;
         }
 
-        public string PacientesConMasCitas()//revisar
+        //public int PacientesConMasCitas()//revisar
+        //{
+        //    var CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
+        //    var query =
+        //          from e in CitasCollection.AsQueryable<CitasModel>()
+        //          group e by e.Cedula into ePaciente
+        //          where ePaciente.Count() > 3
+        //          orderby ePaciente.Key
+        //          select ePaciente;
+
+        //    //foreach (var nombre in query)
+        //    //{
+
+               
+
+        //    //    // process employees named "John"
+        //    //}
+        //    return Convert.ToInt32(query);
+        //}
+
+        //Consultas de Tratamientos
+        public int CantidadTratamiento(string tratamiento)
         {
-            var CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
+            var TratamientosCollection = dbcontext.database.GetCollection<TratamientoModel>("Tratamientos");
             var query =
-                 (from e in CitasCollection.AsQueryable<CitasModel>()
-                  orderby e.Cedula
-                  select e.Cedula);
-                  
+                (from e in TratamientosCollection.AsQueryable<TratamientoModel>()
+                 where e.Nombre == tratamiento
+                 select e)
+                 .Count();
+            return query;
+        }
+
+        public double PromedioMonto(string tratamiento)
+        {
+            var TratamientosCollection = dbcontext.database.GetCollection<TratamientoModel>("Tratamientos");
+            var query =
+                (from e in TratamientosCollection.AsQueryable<TratamientoModel>()
+                 where e.Nombre == tratamiento
+                 select e.Monto)
+                 .Average();
+            return query;
+        }
+
+        //Consulta de Enfermedades mas diagnosticadas
+        public string EnfermedadesMasDiagnosticadas()
+        {
+            var DiagnosticoCollection = dbcontext.database.GetCollection<DiagnosticoModel>("Diagnostico");
+            var query =
+                (from e in DiagnosticoCollection.AsQueryable<DiagnosticoModel>()
+                 .Ma
+                 select e.Nombre);
+
+            foreach (var nombre in query)
+            {
+
+                nombre.GroupBy(nombre.Count());
+
+                // process employees named "John"
+            }
             return Convert.ToString(query);
+
         }
     }
 }
