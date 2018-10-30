@@ -35,10 +35,12 @@ namespace Mongo3.Controllers
             ViewBag.CitasPorPaciente = CitasPorPaciente("115530534");
             ViewBag.CitasPorEspecialidad = CitasPorEspecialidad("General");
             ViewBag.CitasPorEstado = CitasPorEstado("Cancelado");
-            ViewBag.CitasPorFecha = CitasPorFecha("2018-05-25","2018-10-29");
+            ViewBag.CitasPorFecha = CitasPorFecha("2018-05-25", "2018-10-29");
             ViewBag.PacientesConMasCitas = PacientesConMasCitas();
             ViewBag.CantidadTratamiento = CantidadTratamiento("ZZZ");
             ViewBag.Promedio = PromedioMonto("ZZZ");
+            ViewBag.EnfermedadesMasDiagnosticadasNombre = EnfermedadesMasDiagnosticadasNombre();
+            ViewBag.EnfermedadesMasDiagnosticadasCantidad = EnfermedadesMasDiagnosticadasCantidad();
             return View();
         }
 
@@ -115,7 +117,7 @@ namespace Mongo3.Controllers
         }
 
         //Consultas de Citas
-        public int CitasPorPaciente(string cedula)
+        public int CitasPorPaciente(string cedula) //devuelve la cantidad de citas por paciente
         {
 
             var CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
@@ -127,7 +129,7 @@ namespace Mongo3.Controllers
             return query;
         }
 
-        public int CitasPorFecha(string date1, string date2)
+        public int CitasPorFecha(string date1, string date2) //devuelve cantidad de citas por rango de fechas
         {
             var CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
             var query =
@@ -138,50 +140,43 @@ namespace Mongo3.Controllers
             return query;
         }
 
-        public int CitasPorEspecialidad(string especialidad)
+        public int CitasPorEspecialidad(string especialidad) //devuelve cantidad de citas por especialidad
         {
             var CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
             var query =
                 (from e in CitasCollection.AsQueryable<CitasModel>()
-                 where e.Especialidad == especialidad 
+                 where e.Especialidad == especialidad
                  select e)
                  .Count();
             return query;
         }
 
-        public int CitasPorEstado(string estado)
+        public int CitasPorEstado(string estado) //devuelve cantidad de citas por estado
         {
             var CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
             var query =
                 (from e in CitasCollection.AsQueryable<CitasModel>()
-                 where e.Estado == estado 
+                 where e.Estado == estado
                  select e)
                  .Count();
             return query;
         }
 
-        //public int PacientesConMasCitas()//revisar
-        //{
-        //    var CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
-        //    var query =
-        //          from e in CitasCollection.AsQueryable<CitasModel>()
-        //          group e by e.Cedula into ePaciente
-        //          where ePaciente.Count() > 3
-        //          orderby ePaciente.Key
-        //          select ePaciente;
-
-        //    //foreach (var nombre in query)
-        //    //{
-
-               
-
-        //    //    // process employees named "John"
-        //    //}
-        //    return Convert.ToInt32(query);
-        //}
+        public string PacientesConMasCitas()//revisar
+        {
+            var CitasCollection = dbcontext.database.GetCollection<CitasModel>("Citas");
+            var query =
+                  (from e in CitasCollection.AsQueryable<CitasModel>()
+                  select e.Cedula).ToList();
+            var paciente = //devuelve el paciente con mas citas
+                query.GroupBy(s => s)
+                .OrderByDescending(s => s.Count())
+                .First().Key;
+            return paciente;
+        }
 
         //Consultas de Tratamientos
-        public int CantidadTratamiento(string tratamiento)
+        public int CantidadTratamiento(string tratamiento) //cantidad de veces que es asignado el tratamiento
         {
             var TratamientosCollection = dbcontext.database.GetCollection<TratamientoModel>("Tratamientos");
             var query =
@@ -192,7 +187,7 @@ namespace Mongo3.Controllers
             return query;
         }
 
-        public double PromedioMonto(string tratamiento)
+        public double PromedioMonto(string tratamiento) //monto promedio de los tratamientos asignados de ese tipo
         {
             var TratamientosCollection = dbcontext.database.GetCollection<TratamientoModel>("Tratamientos");
             var query =
@@ -204,23 +199,30 @@ namespace Mongo3.Controllers
         }
 
         //Consulta de Enfermedades mas diagnosticadas
-        public string EnfermedadesMasDiagnosticadas()
+        public string EnfermedadesMasDiagnosticadasNombre()
         {
             var DiagnosticoCollection = dbcontext.database.GetCollection<DiagnosticoModel>("Diagnostico");
             var query =
                 (from e in DiagnosticoCollection.AsQueryable<DiagnosticoModel>()
-                 .Ma
-                 select e.Nombre);
+                 select e.Nombre).ToList();
+            var nombreD = //devuelve la enfermedad mas diagnosticada
+                query.GroupBy(s => s)
+                .OrderByDescending(s => s.Count())
+                .First().Key;
+            return nombreD;
+        }
 
-            foreach (var nombre in query)
-            {
-
-                nombre.GroupBy(nombre.Count());
-
-                // process employees named "John"
-            }
-            return Convert.ToString(query);
-
+        public string EnfermedadesMasDiagnosticadasCantidad()
+        {
+            var DiagnosticoCollection = dbcontext.database.GetCollection<DiagnosticoModel>("Diagnostico");
+            var query =
+                (from e in DiagnosticoCollection.AsQueryable<DiagnosticoModel>()
+                 select e.Nombre).ToList();
+            var cantNombreD = //devuelve la cantidad de la enfermedad mas diagnosticada
+                 query.GroupBy(s => s)
+                .OrderByDescending(s => s.Count())
+                .Count().ToString();
+            return cantNombreD;
         }
     }
 }
